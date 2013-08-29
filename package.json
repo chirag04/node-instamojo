@@ -1,0 +1,26 @@
+{
+  "name": "instamojo",
+  "version": "0.1.0",
+  "description": "nodejs module for interacting with instamojo api",
+  "main": "index.js",
+  "devDependencies": {
+    "tape": "*"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chirag04/instamojos.git"
+  },
+  "homepage": "https://github.com/chirag04/instamojo",
+  "keywords": [
+    "instamojo"
+  ],
+  "author": {
+      "name": "Chirag Jain",
+      "email": "jain_chirag04@yahoo.com",
+      "url": "http://chiragjain.tumblr.com"
+  },
+  "license": "MIT"
+}
